@@ -1,0 +1,130 @@
+Listing 1:
+Title: Luxurious Beachfront Villa
+Description: This stunning villa offers breathtaking ocean views, a private beach, and a spacious outdoor living area. Perfect for those seeking a luxurious coastal retreat.
+Price: $2,500,000
+Location: Malibu, California
+Bedrooms: 5
+Bathrooms: 4
+Square_footage: 4000
+Amenities: ['Private beach access', 'Infinity pool', 'Gourmet kitchen']
+Neighborhood: Malibu is known for its celebrity residents, beautiful beaches, and upscale dining and shopping options.
+
+----------------------------------------
+
+Listing 2:
+Title: Charming Historic Brownstone
+Description: Step back in time with this beautifully restored brownstone featuring original architectural details, a cozy fireplace, and a private garden oasis.
+Price: $800,000
+Location: Brooklyn, New York
+Bedrooms: 3
+Bathrooms: 2
+Square_footage: 2000
+Amenities: ['Original hardwood floors', 'Clawfoot bathtub', 'Outdoor patio']
+Neighborhood: Brooklyn's historic brownstone neighborhoods are known for their tree-lined streets, trendy boutiques, and diverse dining options.
+
+----------------------------------------
+
+Listing 3:
+Title: Modern Downtown Condo
+Description: Live in the heart of the city in this sleek and stylish condo with floor-to-ceiling windows, a rooftop terrace, and access to a fitness center and concierge services.
+Price: $600,000
+Location: Chicago, Illinois
+Bedrooms: 2
+Bathrooms: 2
+Square_footage: 1500
+Amenities: ['Rooftop terrace', 'Fitness center', 'Concierge services']
+Neighborhood: Downtown Chicago offers a vibrant urban lifestyle with world-class dining, shopping, and cultural attractions.
+
+----------------------------------------
+
+Listing 4:
+Title: Cozy Mountain Cabin
+Description: Escape to the mountains in this charming cabin featuring a stone fireplace, a hot tub, and stunning views of the surrounding forest.
+Price: $400,000
+Location: Asheville, North Carolina
+Bedrooms: 2
+Bathrooms: 1
+Square_footage: 1200
+Amenities: ['Stone fireplace', 'Hot tub', 'Mountain views']
+Neighborhood: Asheville is a popular destination for outdoor enthusiasts, with hiking trails, waterfalls, and scenic drives nearby.
+
+----------------------------------------
+
+Listing 5:
+Title: Spacious Suburban Home
+Description: Enjoy suburban living in this spacious home with a large backyard, a gourmet kitchen, and a finished basement perfect for entertaining.
+Price: $700,000
+Location: Denver, Colorado
+Bedrooms: 4
+Bathrooms: 3
+Square_footage: 3000
+Amenities: ['Large backyard', 'Gourmet kitchen', 'Finished basement']
+Neighborhood: Denver's suburbs offer a family-friendly atmosphere with top-rated schools, parks, and community events.
+
+----------------------------------------
+
+Listing 6:
+Title: Historic Waterfront Estate
+Description: Own a piece of history with this grand waterfront estate featuring original period details, a private dock, and lush gardens overlooking the bay.
+Price: $3,000,000
+Location: Charleston, South Carolina
+Bedrooms: 6
+Bathrooms: 5
+Square_footage: 5000
+Amenities: ['Private dock', 'Lush gardens', 'Waterfront views']
+Neighborhood: Charleston's historic district is known for its cobblestone streets, antebellum architecture, and vibrant culinary scene.
+
+----------------------------------------
+
+Listing 7:
+Title: Contemporary Loft in Arts District
+Description: Live in style in this contemporary loft with high ceilings, exposed brick walls, and a rooftop deck with city views. Perfect for urban dwellers.
+Price: $500,000
+Location: Los Angeles, California
+Bedrooms: 1
+Bathrooms: 1
+Square_footage: 1000
+Amenities: ['High ceilings', 'Exposed brick walls', 'Rooftop deck']
+Neighborhood: Los Angeles' Arts District is a hub for artists, galleries, and trendy restaurants and bars.
+
+----------------------------------------
+
+Listing 8:
+Title: Rustic Farmhouse Retreat
+Description: Escape the city in this charming farmhouse retreat with a wrap-around porch, a barn, and acres of rolling hills perfect for horses or farming.
+Price: $600,000
+Location: Nashville, Tennessee
+Bedrooms: 3
+Bathrooms: 2
+Square_footage: 2500
+Amenities: ['Wrap-around porch', 'Barn', 'Acres of land']
+Neighborhood: Nashville's countryside offers a peaceful retreat with scenic views, local farms, and a thriving music and arts scene.
+
+----------------------------------------
+
+Listing 9:
+Title: Sunny Coastal Bungalow
+Description: Live the beach life in this sunny bungalow with a spacious deck, a backyard oasis, and easy access to the surf and sand. Perfect for surfers and beach lovers.
+Price: $900,000
+Location: San Diego, California
+Bedrooms: 2
+Bathrooms: 2
+Square_footage: 1500
+Amenities: ['Spacious deck', 'Backyard oasis', 'Close to the beach']
+Neighborhood: San Diego's coastal neighborhoods offer a laid-back vibe with world-class beaches, surf spots, and waterfront dining.
+
+----------------------------------------
+
+Listing 10:
+Title: Mountain View Condo
+Description: Wake up to stunning mountain views in this modern condo with a balcony, a community pool, and easy access to hiking and skiing. Perfect for outdoor enthusiasts.
+Price: $300,000
+Location: Denver, Colorado
+Bedrooms: 1
+Bathrooms: 1
+Square_footage: 800
+Amenities: ['Balcony with mountain views', 'Community pool', 'Hiking and skiing nearby']
+Neighborhood: Denver's mountain communities offer a peaceful retreat with outdoor activities year-round, from hiking and biking to skiing and snowboarding.
+
+----------------------------------------
+
